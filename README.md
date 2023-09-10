@@ -16,7 +16,6 @@
 </p>
 
 ---
----
 
 <h3>Languages and Tools I can use 🛠</h3>
 
