@@ -10,8 +10,8 @@
 - 🖇️ Here you can reach me: 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/carlos--caraballo/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href = "mailto: soycarloscaraballo@gmail.com"><img align="left" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos--caraballo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="25" width="25" /></a>
+<a href = "mailto: soycarloscaraballo@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="15" width="20" /></a>
 </p>
 
 ---
