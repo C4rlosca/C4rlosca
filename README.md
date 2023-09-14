@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, my name is Carlos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
 <h3>I'm Full Stack Junior Web Developer</h3>  
 
 - ⚗️ Working on website and app development on technologies like JavaScript, React, Node, etc.
